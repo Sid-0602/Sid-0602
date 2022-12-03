@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Siddhant Jadhav
+- 👋 Namaste!! I’m Siddhant Jadhav
 - 👀 I’m interested in Programming and DS
 - 🌱 I’m currently learning DSA, Competative Programming, Data Science.
 -  I’m looking to collaborate on Data Structure and Alogo projects/Disscussions and Data Science projects.
