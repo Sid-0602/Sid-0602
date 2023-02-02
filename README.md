@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think ChatGPT is overHyped.**
 
-<p2> ** Connect with Me ** </p2>
+<p2>  Connect with Me </p2>
 <p align="left">
 <a href="https://linkedin.com/in/siddhantjadhavsj" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="siddhantjadhavsj" height="40" width="40" /></a>
 </p>
