@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Jadhav</h1>
 <h3 align="center">A CSE Undergrad Student, a passionate software Developer and Data Enthusiast from Pune, India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid-0602" alt="sid-0602" /></a> </p>
-
 - 🔭 I’m currently working on **A Web Development Project and Sharpening skills for Data Structures and Algorithms.**
 
 - 🌱 I’m currently learning **DSA, Web Development and Machine Learning.**
