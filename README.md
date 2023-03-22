@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Jadhav</h1>
-<h3 align="center">A CSE Undergrad Student, a passionate software Developer and Data Enthusiast from Pune, India</h3>
+<h3 align="center">A CSE Undergrad Student, a passionate software and Full-Stack Web Developer from Pune, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-0602&label=Profile%20views&color=0e75b6&style=flat" alt="sid-0602" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development and Sharpening skills for Data Structures and Algorithms.**
 
-- 💬 Ask me about **DSA, C/C++, HTML,CSS,JS, Python**
+- 💬 Ask me about **DSA, C/C++, HTML,CSS,JS, Nodejs, Express, MongoDB, REST APIs, Python**
 
 - 📫 How to reach me **sidbnjadhav@gmail.com**
 
