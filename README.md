@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning Full-stack Web Development and Data Structures and Algorithms.<br>💬 Ask me about DSA, C/C++, HTML,CSS,JS, Nodejs, Express, MongoDB, REST APIs, Python<br>📫 How to reach me sidbnjadhav@gmail.com
+🌱 I’m currently learning Full-stack Web Development and Data Structures and Algorithms.<br>💬 Ask me about DSA, C/C++, HTML,CSS,JS, Nodejs, Express, MongoDB, REST APIs, Python<br>
+💬 Operating Systes, Database Management System and Computer Networks are my Favourite subjecs at college<br>📫 How to reach me sidbnjadhav@gmail.com
 
 
 ## 🌐 Socials:
