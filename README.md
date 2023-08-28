@@ -1,6 +1,6 @@
 #  About Me:
 🌱 I’m currently learning Full-stack Web Development and Data Structures and Algorithms.<br>💬 Let's disscuss DSA, C/C++, HTML,CSS,JS, Nodejs, Express, MongoDB, REST APIs and backend web development<br>
-💬 Fav Subjects are: Operating systems, Database Management Systems and Computer Networks and System Design<br>📫 How to reach me sidbnjadhav@gmail.com
+💬 Operating systems, Database Management Systems and Computer Networks and System Design<br>📫 How to reach me sidbnjadhav@gmail.com
 
 
 # 💻 Tech Stack:
