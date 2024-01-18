@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development, Cloud Services, DevOps tools and Data Structures and Algorithms.**
 
-- 💬 Ask me about **DSA, C/C++, HTML,CSS,JS, Nodejs, Python, Docker, Bash and Shell-Scripting, ExpressJs, MongoDB, REST APIs and Back-end web development**
+- 💬 Ask me about **DSA, C/C++, JavaScript, Nodejs, Python, Docker, Bash and Shell-Scripting, ExpressJs, MongoDB, REST APIs and Back-end web development**
 
 - 📫 How to reach me **sidbnjadhav@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
